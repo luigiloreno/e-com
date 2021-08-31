@@ -109,8 +109,11 @@ body{
     color: #E6E2DD;
     width: 100%;
     
+
     position: sticky;
     top: 0;
+   
+
     font-family: Montserrat;
     padding: 10px;
 }
